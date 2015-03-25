@@ -1,4 +1,4 @@
-package util;
+package tcnjacmtutorial;
 
 import java.awt.Color;
 import java.util.ArrayList;
